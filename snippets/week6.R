@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 ################################
 ## p-value for nutrition study example
 1 - pt(3.01, df = 15.99)
